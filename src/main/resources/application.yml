@@ -1,0 +1,9 @@
+#여기에 모든 설정을 다 할 수 있다.
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/blog?serverTimezone=Asia/Seoul
+    username: lth
+    password: lth1234
+    
+  
